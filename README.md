@@ -28,3 +28,8 @@ This python example script pulls structured JSON-formatted events from Cisco Sec
 
  4. View help  
   `python3 tg_pull_events.py --help`  
+
+
+# More info:  
+
+https://developer.cisco.com/threat-grid/  
