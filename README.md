@@ -7,22 +7,22 @@ This python example pulls structured JSON-formatted events from Cisco Secure Mal
 
 
 
-How to install:  
+# How to install:  
 
 `pip install requests`  
 
  Download all of these files into local working directory!
 
-How to use:  
+# How to use:  
 
-# 1. Use the default log path (/var/log/Threatgrid.log)  
+ 1. Use the default log path (/var/log/Threatgrid.log)  
   `python3 tg_pull_events.py`  
 
-# 2. Specify a custom log file with the short flag  
+ 2. Specify a custom log file with the short flag  
   `python3 tg_pull_events.py -l /tmp/my_threatgrid.log`
 
-# 3. Specify a custom log file with the long flag  
+ 3. Specify a custom log file with the long flag  
   `python3 tg_pull_events.py --logfile /home/user/logs/tg_events.log  
 
-# 4. View help  
+ 4. View help  
   `python3 tg_pull_events.py --help`  
