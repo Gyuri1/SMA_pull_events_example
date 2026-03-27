@@ -33,3 +33,6 @@ This python example script pulls structured JSON-formatted events from Cisco Sec
 # More info:  
 
 https://developer.cisco.com/threat-grid/  
+
+https://ciscosecurity-tg-00-integration-workflows.readthedocs-hosted.com/en/latest/tg/query.html#entity-searches  
+
