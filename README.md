@@ -43,6 +43,12 @@ This python example script pulls structured JSON-formatted **sample/submission**
 **API key in URL** — The v2 endpoint passes the API key as a query parameter. 
 Ensure you use HTTPS (which the default base URL does) so the key is encrypted in transit.
 
+**Check the SMA URL based on the region** - Please check and update the `tg_config.py` file with   
+the API key and region based SMA URL.    
+# Base URL for the Cisco Secure Malware Analytics API  
+# US cloud: https://panacea.threatgrid.com  
+# EU cloud: https://panacea.threatgrid.eu  
+
 
 # More info:  
 
