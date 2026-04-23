@@ -45,9 +45,9 @@ Ensure you use HTTPS (which the default base URL does) so the key is encrypted i
 
 **Check the SMA URL based on the region** - Please check and update the `tg_config.py` file with   
 the API key and region based SMA URL.    
-# Base URL for the Cisco Secure Malware Analytics API  
-# US cloud: https://panacea.threatgrid.com  
-# EU cloud: https://panacea.threatgrid.eu  
+Base URL for the Cisco Secure Malware Analytics API:   
+- US cloud: https://panacea.threatgrid.com    
+- EU cloud: https://panacea.threatgrid.eu    
 
 
 # More info:  
